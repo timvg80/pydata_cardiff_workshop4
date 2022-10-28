@@ -4,3 +4,4 @@ jupyterlab>=3.4.8
 seaborn>=0.12.1
 scikit-learn>=1.1.2
 nbstripout>=0.6.1
+palmerpenguins>=0.1.4
